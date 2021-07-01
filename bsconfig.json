@@ -5,6 +5,5 @@
   "package-specs": {
     "module": "es6"
   },
-  "namespace": true,
-  "refmt": 3
+  "namespace": true
 }
